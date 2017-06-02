@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thd_exercise_06022017.iml" filepath="$PROJECT_DIR$/.idea/modules/thd_exercise_06022017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thd_exercise_06022017_main.iml" filepath="$PROJECT_DIR$/.idea/modules/thd_exercise_06022017_main.iml" group="thd_exercise_06022017" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thd_exercise_06022017_test.iml" filepath="$PROJECT_DIR$/.idea/modules/thd_exercise_06022017_test.iml" group="thd_exercise_06022017" />
+    </modules>
+  </component>
+</project>
